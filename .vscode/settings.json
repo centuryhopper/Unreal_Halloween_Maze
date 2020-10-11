@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"/Users/leozhang/Documents/Unreal Projects/MyProject/Saved": true,
+		"/Users/leozhang/Documents/Unreal Projects/MyProject/Content": true,
+		"/Users/leozhang/Documents/Unreal Projects/MyProject/DerivedDataCache": true,
+		"/Users/leozhang/Documents/Unreal Projects/MyProject/.vscode": true,
+		"/Users/leozhang/Documents/Unreal Projects/MyProject/Intermediate": true,
+		"/Users/leozhang/Documents/Unreal Projects/MyProject/MyProject.xcworkspace": true
+	}
+}
