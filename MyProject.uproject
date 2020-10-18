@@ -12,5 +12,12 @@
 				"Engine"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "FormatString",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c1abf895ea8c4d658d0c9941459904c0"
+		}
 	]
 }
